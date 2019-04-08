@@ -1,14 +1,7 @@
-# flutter_local_notifications_provider
+# Flutter Local Notifications Provider
 
-A new Flutter package project.
+It adds a functionality in the [main package ](https://github.com/MaikuB/flutter_local_notifications/).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* Adding FlutterLocalNotificationsPlugin into Widget Tree via InheritedWidget
