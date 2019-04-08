@@ -1,6 +1,6 @@
 name: flutter_local_notifications_provider
 description: It adds FlutterLocalNotificationsPlugin into WidgetT ree
-version: 0.1.0
+version: 0.2.0
 author: Alef Carlos <alef.carlos@gmail.com>
 homepage: https://github.com/alefcarlos/flutter_local_notifications_provider
 
