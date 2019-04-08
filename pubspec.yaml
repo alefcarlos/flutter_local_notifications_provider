@@ -1,6 +1,6 @@
 name: flutter_local_notifications_provider
-description: It adds FlutterLocalNotificationsPlugin into WidgetT ree
-version: 0.2.0
+description: It adds FlutterLocalNotificationsPlugin into Widget Tree using InheritedWidget. It is nice when you need to get its reference in other pages.
+version: 0.2.1
 author: Alef Carlos <alef.carlos@gmail.com>
 homepage: https://github.com/alefcarlos/flutter_local_notifications_provider
 

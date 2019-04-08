@@ -18,7 +18,6 @@ class NotificationProvider extends InheritedWidget {
   /// Method that allows widgets to access the bloc as long as their `BuildContext`
   /// contains a `NotificationProvider` instance.
   static FlutterLocalNotificationsPlugin of(BuildContext context) {
-
     final NotificationProvider provider = context
         .ancestorInheritedElementForWidgetOfExactType(NotificationProvider)
         ?.widget as NotificationProvider;
